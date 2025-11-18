@@ -167,3 +167,6 @@ This composite figure presents three key error metrics per resolution:
 InsightFace consistently outperforms DeepFace across all metrics, with the lowest errors occurring at **224×224 pixels**.  
 Both very low and very high resolutions lead to degraded performance.
 
+## Repository
+https://github.com/codershiyar/image-resolution-effect-on-ai
+
