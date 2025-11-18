@@ -30,6 +30,13 @@ Automatic age estimation is used in applications such as age verification, acces
 | [paper.pdf](./paper.pdf) | English version of the research paper |
 | [poster.pdf](./Poster.pdf) | Visual research poster |
 | [paper-nl.pdf](./paper-nl.pdf) | Dutch version of the research paper |
+| [Colab Notebook](./DeepFace_InsightFace_ResolutionAnalysis.ipynb) | Code used for preprocessing, testing and analysis |
+Wil je dat ik deze ook in de Nederlandse README of Engelse README integreer?
+
+
+
+
+
 ---
 
 ## Google Colab Notebook
