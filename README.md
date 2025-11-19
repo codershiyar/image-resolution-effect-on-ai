@@ -1,4 +1,5 @@
-# Effect of Image Resolution on AI Age Estimation  
+# Impact of Image Resolution on Age Estimation with DeepFace and InsightFace
+
 DeepFace vs. InsightFace
 
 This repository contains the materials related to a study on how input image resolution affects the accuracy and processing performance of age estimation using DeepFace and InsightFace. The project explores seven different resolutions applied to 1000 images from the IMDB-Clean dataset, resulting in 7000 processed samples.
