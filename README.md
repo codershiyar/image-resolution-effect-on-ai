@@ -10,6 +10,11 @@ This repository contains the materials related to a study on how input image res
 
 Automatic age estimation is used in applications such as age verification, access control and automated checkout systems. Input images in these scenarios vary greatly in quality and resolution. This study evaluates how different input resolutions influence the accuracy of two widely used frameworks and whether external resolution still matters despite internal resizing.
 
+This study compares:
+- **DeepFace (VGG-Face)**
+- **InsightFace (ArcFace + genderage head)**
+- **Seven resolutions** from **64×64** up to **1080×1080**
+- **7000 total processed samples**
 ---
 
 ## Key Findings
@@ -64,9 +69,31 @@ Input image resolution has a clear and consistent effect on age estimation accur
 
 ---
 
-## Author
+## 📜 Citation
 
-Shiyar Jamo  
+If you use this repository, data, or results in your research, please cite the following paper:
+
+**BibTeX:**
+```bibtex
+@article{jamo2025resolutionageestimation,
+  title   = {Impact of Image Resolution on Age Estimation with DeepFace and InsightFace},
+  author  = {Jamo, Shiyar},
+  journal = {arXiv preprint arXiv:2511.14689},
+  year    = {2025}
+}
+```
+📄 **Paper:**
+ [https://arxiv.org/abs/2511.14689](https://arxiv.org/abs/2511.14689)
+ 
+🔗 **View PDF:**  
+[https://arxiv.org/pdf/2511.14689](https://arxiv.org/pdf/2511.14689)
+
+🔗 **View HTML:**  
+[https://arxiv.org/html/2511.14689v1](https://arxiv.org/html/2511.14689v1)
+
+
+## Author
+Shiyar Jamo
 Master Applied Artificial Intelligence  
 Amsterdam University of Applied Sciences
 
