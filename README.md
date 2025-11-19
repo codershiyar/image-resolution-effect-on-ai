@@ -82,7 +82,7 @@ If you use this repository, data, or results in your research, please cite the f
   year    = {2025}
 }
 ```
-📄 **Paper:**
+📄 **Paper:**  
  [https://arxiv.org/abs/2511.14689](https://arxiv.org/abs/2511.14689)
  
 🔗 **View PDF:**  
@@ -93,11 +93,12 @@ If you use this repository, data, or results in your research, please cite the f
 
 
 ## Author
-Shiyar Jamo
+Shiyar Jamo  
 Master Applied Artificial Intelligence  
 Amsterdam University of Applied Sciences
 
 
+<!--
 # Effect van Beeldresolutie op AI-Leeftijdsschatting  
 DeepFace vs. InsightFace
 
@@ -162,7 +163,7 @@ De invoerresolutie heeft een duidelijke en consistente invloed op de nauwkeurigh
 Shiyar Jamo  
 Master Applied Artificial Intelligence  
 Hogeschool van Amsterdam
-
+-->
 
 ## Figures
 
